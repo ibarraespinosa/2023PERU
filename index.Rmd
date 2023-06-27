@@ -139,6 +139,8 @@ entones, el vehiculo emite 1 g CO.
 
 > **El consumo de combustible estimado debe ser igual al consumo de combustible registrado**
 
+
+
 ---
 class: inverse center middle
 
@@ -622,6 +624,14 @@ knitr::include_graphics("SPEED_HOUR.png")
 knitr::include_graphics("emis.png")
 ```
 
+
+---
+## Resultados California
+
+
+```{r,  out.width="70%", echo = F}
+knitr::include_graphics("tdv2.png")
+```
 
 ---
 class: center, middle
